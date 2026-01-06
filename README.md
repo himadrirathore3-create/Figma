@@ -22,7 +22,7 @@ Create pages based on your need and link them.
 ## Step 6:
 Validate the HTML and CSS code.
 
-## Step 6:
+## Step 7:
 Publish the website in the given URL.
 
 # DESIGN TOOL:
